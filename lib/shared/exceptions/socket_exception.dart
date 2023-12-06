@@ -1,0 +1,1 @@
+class SocketException implements Exception {}
